@@ -10,3 +10,12 @@ Required Jenkins Plugins are :-
   Parameterized trigger Plugin.
   
 # ArgoCD is installed on Kubernetes cluster.
+
+
+
+
+[![Gitops-flow.png](https://i.postimg.cc/zfc4sHQQ/Gitops-flow.png)](https://postimg.cc/sB5nSxsP)
+
+
+
+
